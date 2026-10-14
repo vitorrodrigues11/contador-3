@@ -1,0 +1,8 @@
+<script>start("c:\\Users\\vitor\\OneDrive\\despesas\\contador-romantico\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,0,"0 B",1791931674,"13/10/2026, 19:47:54");</script>
+<script>addRow(".gitignore",".gitignore",0,73,"73 B",1791933087,"13/10/2026, 20:11:27");</script>
+<script>addRow("index.html","index.html",0,3092,"3.0 kB",1791931841,"13/10/2026, 19:50:41");</script>
+<script>addRow("README.md","README.md",0,709,"709 B",1791933087,"13/10/2026, 20:11:27");</script>
+<script>addRow("script.js","script.js",0,2502,"2.4 kB",1791931735,"13/10/2026, 19:48:55");</script>
+<script>addRow("styles.css","styles.css",0,7163,"7.0 kB",1791931773,"13/10/2026, 19:49:33");</script>
